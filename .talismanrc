@@ -1,0 +1,14 @@
+fileignoreconfig:
+- filename: .env.example
+  checksum: 3eef6fac6e081ea657980da34e5caf07e76781d991ee28dc9313207e9854bc1b
+- filename: config/admin.js
+  checksum: 3f04a60b81fb271a25eb30da82196637d0a1ad6df36be4b74e4290c688622679
+- filename: config/database.js
+  checksum: a0c20cedce2d4568b3438aae828f39ea03eac4468e2fdbfb06a92210eb5a487f
+- filename: config/server.js
+  checksum: 9db8e61ebdec1e6b1b59ef2a94567e0f4c2c36751ffe5098ca66ec39571fcd61
+- filename: types/generated/contentTypes.d.ts
+  checksum: 428d60855768c762442182988da42eb21be9f1c6078a940d55d638e96bb1ffa8
+- filename: yarn.lock
+  checksum: b74314bcac5b39b7f6d3281c044f87117e0577b9d8e92fac7c9d5658127e7a10
+version: "1.0"
